@@ -1,0 +1,11 @@
+numpy
+pandas
+pillow
+pydicom
+torch
+torchvision
+streamlit
+tensorflow
+opencv-python
+matplotlib
+gdown
